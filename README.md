@@ -1,6 +1,7 @@
 # Enhanced Facial Recognition Model
-Lib Stack - OpenCV, NumPy
-Dev Environment - Python on Visual Studio Code
+Lib Stack - OpenCV, NumPy             
+Dev Environment - Python on Visual Studio Code   
+
 Dive into the realm of advanced computer vision with our 'Enhanced Facial Recognition Model using OpenCV.' This cutting-edge system demonstrates exceptional precision in detecting human faces, a feat optimized through the meticulous implementation of Haar cascades and the powerful NumPy library for seamless tracking. This project goes beyond simple face detection; it leverages an array of sophisticated image processing tools:
 
 Image Loading and Saving: Seamlessly handle various image formats like JPEG and PNG.
