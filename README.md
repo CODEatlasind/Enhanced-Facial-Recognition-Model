@@ -10,3 +10,6 @@ Image Loading and Saving: Seamlessly handle various image formats like JPEG and 
 6. Contour Detection and Shape Analysis: Employ sophisticated techniques to discern and analyze contours within images.
    
 This project not only excels in detecting faces from static images but also dynamically captures them through a webcam feed. By utilizing a Haar classifier model, it expertly discerns facial features from the surrounding environment, setting a new standard in facial recognition technology. Experience firsthand the transformative power of OpenCV in redefining facial recognition.
+
+Here is a sample:
+![Recog](https://github.com/CODEatlasind/Enhanced-Facial-Recognition-Model-using-OpenCV-NumPY-Python/assets/77682631/e182ee7d-1a4b-4205-bc07-107d635fda23)
